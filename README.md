@@ -33,4 +33,4 @@
 스타팅 포켓몬을 받기 전에 치트를 사용해 다른 마을로 이동한 뒤 수풀에 들어가면 버그가 발생할 수 있습니다.
 
 ### 플레이 영상
-https://www.youtube.com/watch?v=i5n2ul3Qfic
+https://youtu.be/i5n2ul3Qfic
