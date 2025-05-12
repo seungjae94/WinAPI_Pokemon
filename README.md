@@ -4,7 +4,7 @@
 <img src=https://github.com/user-attachments/assets/33e3786c-308f-4156-bc60-3a19fe10b4c0 width=30% height=30%>
 <img src=https://github.com/user-attachments/assets/03d3366c-ecd0-4ef8-874c-d19d66e0d797 width=30% height=30%>
 
-- 개요: <a href="https://namu.wiki/w/%ED%8F%AC%EC%BC%93%EB%AA%AC%EC%8A%A4%ED%84%B0%20%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%A0%88%EB%93%9C%C2%B7%EB%A6%AC%ED%94%84%EA%B7%B8%EB%A6%B0">포켓몬스터 파이어레드 버전</a>을 학습 목적으로 그대로 본따서 만든 게임
+- 개요: <a href="https://namu.wiki/w/%ED%8F%AC%EC%BC%93%EB%AA%AC%EC%8A%A4%ED%84%B0%20%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%A0%88%EB%93%9C%C2%B7%EB%A6%AC%ED%94%84%EA%B7%B8%EB%A6%B0">포켓몬스터 파이어레드 버전</a>을 그대로 본따서 만든 게임
 - 플랫폼: Windows
 - 개발 인원: 1인
 - 게임 엔진: 자체 엔진 (C++ / Windows API)
